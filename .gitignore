@@ -1,0 +1,26 @@
+# Archivos y carpetas de compilación
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Archivos de usuario y configuración de VS
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Publicaciones
+publish/
+*.app/
+*.vs/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Paquetes NuGet
+*.nupkg
+*.snupkg
+packages/
