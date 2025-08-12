@@ -1,0 +1,2 @@
+D:\Users\Usuario\Desktop\TetrisPc\TetrisWinForms\bin\Release\net6.0-windows\win-x64\publish\TetrisWinForms.pdb
+D:\Users\Usuario\Desktop\TetrisPc\TetrisWinForms\bin\Release\net6.0-windows\win-x64\publish\TetrisWinForms.exe
